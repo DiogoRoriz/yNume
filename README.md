@@ -7,9 +7,9 @@
 
 
  <div>
-   <a href="https://github.com/yNume">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yNume&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yNume&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/DiogoRoriz">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoRoriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRoriz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 
